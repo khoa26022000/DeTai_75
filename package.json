@@ -1,0 +1,31 @@
+{
+  "name": "detai_75",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khoa26022000/DeTai_75.git"
+  },
+  "keywords": [
+    "web",
+    "do",
+    "an"
+  ],
+  "author": "Khoa Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khoa26022000/DeTai_75/issues"
+  },
+  "homepage": "https://github.com/khoa26022000/DeTai_75#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
